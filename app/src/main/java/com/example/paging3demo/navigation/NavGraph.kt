@@ -9,7 +9,6 @@ import coil.annotation.ExperimentalCoilApi
 import com.example.paging3demo.screens.home.HomeScreen
 import com.example.paging3demo.screens.search.SearchScreen
 
-@ExperimentalCoilApi
 @ExperimentalPagingApi
 @Composable
 fun SetupNavGraph(navController: NavHostController) {

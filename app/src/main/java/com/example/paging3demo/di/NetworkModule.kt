@@ -15,7 +15,7 @@ import retrofit2.Retrofit
 import java.util.concurrent.TimeUnit
 import javax.inject.Singleton
 
-@ExperimentalSerializationApi
+
 @Module
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
